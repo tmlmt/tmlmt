@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmlmt
 - 👀 I’m interested in Web Apps, Home Automation and Cartography
-- 🌱 I’m currently learning Python, Node/Vue, OpenLayers/Mapbox
+- 🌱 I’m currently learning Python, JS/TS/Node/Vue/Nuxt, Mapbox
 - 💞️ I’m looking to collaborate on any of my repos
 - 📫 How to reach me : tom[at]tmlmt.com
 
