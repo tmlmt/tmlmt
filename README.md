@@ -22,6 +22,7 @@
     - [unjs/changelogen](https://github.com/unjs/changelogen)
     - [nuxt/content](https://github.com/nuxt/content)
     - [intlify/routing](https://github.com/intlify/routing)
-    - [studiometa/vue-mapbox-gl](https://github.com/studiometa/vue-mapbox-gl) 
+    - [studiometa/vue-mapbox-gl](https://github.com/studiometa/vue-mapbox-gl)
+    - [Baroshem/nuxt-security](https://github.com/Baroshem/nuxt-security)
   
 - 📫 How to reach me : tom@tmlmt.com
