@@ -14,8 +14,8 @@
     
 - 🤹‍ Other projects I've contributed to ([see details](https://github.com/pulls?q=is%3Apr+author%3Atmlmt+-user%3Atmlmt+is%3Amerged)):
   
-  - Ghost themes: 
-    - Casper: [TryGhost/Casper](https://github.com/TryGhost/Casper) 
+  - Ghost (blogging platform): [TryGhost/Ghost](https://github.com/TryGhost/Ghost), and its themes: 
+    - Casper: [TryGhost/Casper](https://github.com/TryGhost/Casper)
     - Attila: [zutrinken/attila](https://github.com/zutrinken/attila)
     
   - Javascript framework and associated: 
