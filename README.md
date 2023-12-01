@@ -20,6 +20,7 @@
     
   - Javascript framework and associated: 
     - [unjs/changelogen](https://github.com/unjs/changelogen)
+    - [unjs/unhead](https://github.com/unjs/unhead)
     - [nuxt/content](https://github.com/nuxt/content)
     - [intlify/routing](https://github.com/intlify/routing)
     - [studiometa/vue-mapbox-gl](https://github.com/studiometa/vue-mapbox-gl)
