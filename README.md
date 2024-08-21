@@ -8,6 +8,9 @@
   - 🗺️ **Bodega Map** (https://www.bodegamap.com): an interactive map of the traditional pubs in Denmark. 
     - Private Repo + public collaboration repo [tmlmt/bodegamap-collab](https://github.com/tmlmt/bodegamap-collab)
 
+  - 👩‍🍼**Milk Tracker**: a breastfeeding data tracking app
+    - Public repo [tmlmt/milk-tracker](https://github.com/tmlmt/milk-tracker)
+
   - 👻 **Fantome** and **Yuurei**: forks of two of [Ghost](https://github.com/TryGhost/Ghost)'s official themes.
     - Fantome (fork of Casper): public repo [tmlmt/fantome](https://github.com/tmlmt/fantome)
     - Yuurei (fork of Edge): public repo [tmlmt/yuurei](https://github.com/tmlmt/yuurei)
@@ -18,6 +21,9 @@
     - Casper: [TryGhost/Casper](https://github.com/TryGhost/Casper)
     - Attila: [zutrinken/attila](https://github.com/zutrinken/attila)
     
+  - Python framework and associated:
+    - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) (docs, PR ideas)
+
   - Javascript framework and associated: 
     - [unjs/changelogen](https://github.com/unjs/changelogen)
     - [unjs/unhead](https://github.com/unjs/unhead)
