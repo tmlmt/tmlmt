@@ -15,7 +15,7 @@
     - Fantome (fork of Casper): public repo [tmlmt/fantome](https://github.com/tmlmt/fantome)
     - Yuurei (fork of Edge): public repo [tmlmt/yuurei](https://github.com/tmlmt/yuurei)
     
-- 🤹‍ Other projects I've contributed to ([see details](https://github.com/pulls?q=is%3Apr+author%3Atmlmt+-user%3Atmlmt+is%3Amerged)):
+- 🤹‍ Other projects I've contributed to (see details on [prs.tmlmt.com](https://prs.tmlmt.com)):
   
   - Ghost (blogging platform): [TryGhost/Ghost](https://github.com/TryGhost/Ghost), and its themes: 
     - Casper: [TryGhost/Casper](https://github.com/TryGhost/Casper)
