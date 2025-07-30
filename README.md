@@ -10,6 +10,9 @@
 
   - 👩‍🍼**Milk Tracker**: a breastfeeding data tracking app
     - Public repo [tmlmt/milk-tracker](https://github.com/tmlmt/milk-tracker)
+   
+  - 🍼 **Baby Milk Ingredient Analyzer**: my first AI-generated python app (half-day sprint just to try)
+    - Public repo [tmlmt/babymilk-analyzer](https://github.com/tmlmt/babymilk-analyzer)
 
   - 👻 **Fantome** and **Yuurei**: forks of two of [Ghost](https://github.com/TryGhost/Ghost)'s official themes.
     - Fantome (fork of Casper): public repo [tmlmt/fantome](https://github.com/tmlmt/fantome)
