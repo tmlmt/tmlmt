@@ -9,7 +9,12 @@
 
     - Private Repo + public collaboration repo [tmlmt/bodegamap-collab](https://github.com/tmlmt/bodegamap-collab)
 
-  - 👩‍🍼**Milk Tracker**: a breastfeeding data tracking app
+  - 🍝 **Cooklang Parser**: Typescript library to parse and manipulate [Cooklang](https://www.cooklang.org) recipes.
+
+    - Public repo [tmlmt/cooklang-parser](https://github.com/tmlmt/cooklang-parser)
+    - Website: [https://cooklang-parser.tmlmt.com](https://cooklang-parser.tmlmt.com)
+
+  - 👩‍🍼 **Milk Tracker**: a breastfeeding data tracking app
 
     - Public repo [tmlmt/milk-tracker](https://github.com/tmlmt/milk-tracker)
 
